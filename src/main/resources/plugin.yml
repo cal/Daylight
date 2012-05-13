@@ -1,0 +1,5 @@
+name: Daylight
+author: Cal
+description: Displays the in-game time in the "Play Multiplayer" server list
+version: 0.1
+main: com.github.cal.Daylight.Daylight
